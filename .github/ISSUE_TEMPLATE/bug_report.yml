@@ -4,14 +4,6 @@ title: "fix(<scope>): "
 labels:
   - bug
 body:
-  - type: markdown
-    attributes:
-      value: |
-        버그를 제보해주셔서 감사합니다.
-
-        빠른 확인을 위해 아래 항목을 가능한 한 구체적으로 작성해주세요.
-        개인정보, 비밀번호, 인증 토큰 등 민감한 정보는 포함하지 마세요.
-
   - type: checkboxes
     id: preflight
     attributes:
